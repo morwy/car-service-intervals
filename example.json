@@ -1,0 +1,82 @@
+[
+    {
+        "interval_km": 5000,
+        "description": "Change engine oil and oil filter (severe duty conditions)."
+    },
+    {
+        "interval_km": 12000,
+        "description": "Change engine oil and oil filter (normal conditions)."
+    },
+    {
+        "interval_km": 12000,
+        "description": "Rotate the tires."
+    },
+    {
+        "interval_km": 24000,
+        "description": "Inspect and replace engine air cleaner filter (dusty or off-road conditions)."
+    },
+    {
+        "interval_km": 24000,
+        "description": "Inspect and replace brake linings."
+    },
+    {
+        "interval_km": 24000,
+        "description": "Replace air conditioning filter (if equipped)."
+    },
+    {
+        "interval_km": 24000,
+        "description": "Inspect front and rear axle fluid."
+    },
+    {
+        "interval_km": 36000,
+        "description": "Inspect the CV joints."
+    },
+    {
+        "interval_km": 36000,
+        "description": "Inspect the exhaust system."
+    },
+    {
+        "interval_km": 36000,
+        "description": "Inspect and replace front suspension, the rods ends and boot seals."
+    },
+    {
+        "interval_km": 50000,
+        "description": "Replace engine air cleaner filter."
+    },
+    {
+        "interval_km": 50000,
+        "description": "Inspect the transfer case fluid."
+    },
+    {
+        "interval_km": 72000,
+        "description": "Change the front and rear axle fluid (only for police, taxi, fleet or frequent trailer towing)."
+    },
+    {
+        "interval_km": 100000,
+        "description": "Change the automatic transmission fluid and filter (only for police, taxi, fleet or frequent trailer towing)."
+    },
+    {
+        "interval_km": 100000,
+        "description": "Change the transfer case fluid (only for police, taxi, fleet or frequent trailer towing)."
+    },
+    {
+        "interval_km": 150000,
+        "description": "Inspect and replace PCV valve."
+    },
+    {
+        "interval_km": 170000,
+        "description": "Flush and replace the engine coolant."
+    },
+    {
+        "interval_km": 170000,
+        "description": "Replace spark plugs."
+    },
+    {
+        "interval_km": 170000,
+        "description": "Replace timing belt."
+    },
+    {
+        "interval_km": 200000,
+        "description": "Change the automatic transmission fluid and filter."
+    }
+]

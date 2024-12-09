@@ -1,0 +1,202 @@
+   5000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  10000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  12000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+  15000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  20000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  24000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+  25000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  30000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  35000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  36000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+  40000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  45000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  48000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+  50000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Replace engine air cleaner filter.
+			[ ]	Inspect the transfer case fluid.
+  55000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  60000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+  65000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  70000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  72000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+			[ ]	Change the front and rear axle fluid (only for police, taxi, fleet or frequent trailer towing).
+  75000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  80000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  84000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+  85000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  90000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  95000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+  96000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+ 100000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Replace engine air cleaner filter.
+			[ ]	Inspect the transfer case fluid.
+			[ ]	Change the automatic transmission fluid and filter (only for police, taxi, fleet or frequent trailer towing).
+			[ ]	Change the transfer case fluid (only for police, taxi, fleet or frequent trailer towing).
+ 105000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 108000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+ 110000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 115000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 120000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+ 125000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 130000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 132000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+ 135000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 140000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 144000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+			[ ]	Change the front and rear axle fluid (only for police, taxi, fleet or frequent trailer towing).
+ 145000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 150000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Replace engine air cleaner filter.
+			[ ]	Inspect the transfer case fluid.
+			[ ]	Inspect and replace PCV valve.
+ 155000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 156000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+ 160000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 165000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 168000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+ 170000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Flush and replace the engine coolant.
+			[ ]	Replace spark plugs.
+			[ ]	Replace timing belt.
+ 175000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 180000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+ 185000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 190000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 192000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+ 195000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 200000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Replace engine air cleaner filter.
+			[ ]	Inspect the transfer case fluid.
+			[ ]	Change the automatic transmission fluid and filter (only for police, taxi, fleet or frequent trailer towing).
+			[ ]	Change the transfer case fluid (only for police, taxi, fleet or frequent trailer towing).
+			[ ]	Change the automatic transmission fluid and filter.
+ 204000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+ 205000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 210000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 215000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 216000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+			[ ]	Change the front and rear axle fluid (only for police, taxi, fleet or frequent trailer towing).
+ 220000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 225000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 228000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+ 230000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 235000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 240000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+ 245000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 250000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+			[ ]	Replace engine air cleaner filter.
+			[ ]	Inspect the transfer case fluid.
+ 252000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+ 255000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 260000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 264000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+ 265000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 270000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 275000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 276000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+ 280000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 285000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 288000 :	[ ]	Change engine oil and oil filter (normal conditions).
+			[ ]	Rotate the tires.
+			[ ]	Inspect and replace engine air cleaner filter (dusty or off-road conditions).
+			[ ]	Inspect and replace brake linings.
+			[ ]	Replace air conditioning filter (if equipped).
+			[ ]	Inspect front and rear axle fluid.
+			[ ]	Inspect the CV joints.
+			[ ]	Inspect the exhaust system.
+			[ ]	Inspect and replace front suspension, the rods ends and boot seals.
+			[ ]	Change the front and rear axle fluid (only for police, taxi, fleet or frequent trailer towing).
+ 290000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
+ 295000 :	[ ]	Change engine oil and oil filter (severe duty conditions).
